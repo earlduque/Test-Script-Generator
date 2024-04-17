@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object">
+    <sys_db_object action="DELETE">
+        <access/>
+        <actions_access>false</actions_access>
+        <alter_access>false</alter_access>
+        <caller_access/>
+        <client_scripts_access>false</client_scripts_access>
+        <configuration_access>false</configuration_access>
+        <create_access>false</create_access>
+        <create_access_controls>false</create_access_controls>
+        <delete_access>false</delete_access>
+        <is_extendable>false</is_extendable>
+        <label>Test Scrip 0 1713377854258</label>
+        <live_feed_enabled>false</live_feed_enabled>
+        <name>x_snc_test_scrip_0_1713377854258</name>
+        <number_ref/>
+        <provider_class/>
+        <read_access>true</read_access>
+        <scriptable_table>false</scriptable_table>
+        <super_class display_value="Import Set Row" name="sys_import_set_row">e24da1e393222110b653ffbd1dba1090</super_class>
+        <sys_class_name>sys_db_object</sys_class_name>
+        <sys_created_by>earl.duque</sys_created_by>
+        <sys_created_on>2024-04-17 18:17:33</sys_created_on>
+        <sys_id>e1e9123693a54610b653ffbd1dba10b2</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Scrip 0 1713377854258</sys_name>
+        <sys_package display_value="Test Script Generator" source="x_snc_test_scrip_0">f1f812f293a54610b653ffbd1dba10cb</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Test Script Generator">f1f812f293a54610b653ffbd1dba10cb</sys_scope>
+        <sys_update_name>sys_db_object_e1e9123693a54610b653ffbd1dba10b2</sys_update_name>
+        <sys_updated_by>earl.duque</sys_updated_by>
+        <sys_updated_on>2024-04-17 18:17:33</sys_updated_on>
+        <update_access>false</update_access>
+        <user_role/>
+        <ws_access>true</ws_access>
+    </sys_db_object>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Test Script Generator">f1f812f293a54610b653ffbd1dba10cb</application>
+        <file_path/>
+        <instance_id>13d96523db2ee594387021c40596192b</instance_id>
+        <instance_name>earlio</instance_name>
+        <name>sys_db_object_e1e9123693a54610b653ffbd1dba10b2</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_db_object"><sys_db_object action="INSERT_OR_UPDATE"><access/><actions_access>false</actions_access><alter_access>false</alter_access><caller_access/><client_scripts_access>false</client_scripts_access><configuration_access>false</configuration_access><create_access>false</create_access><create_access_controls>false</create_access_controls><delete_access>false</delete_access><is_extendable>false</is_extendable><label>Test Scrip 0 1713377854258</label><live_feed_enabled>false</live_feed_enabled><name>x_snc_test_scrip_0_1713377854258</name><number_ref/><provider_class/><read_access>true</read_access><scriptable_table>false</scriptable_table><super_class display_value="Import Set Row" name="sys_import_set_row">e24da1e393222110b653ffbd1dba1090</super_class><sys_class_name>sys_db_object</sys_class_name><sys_created_by>earl.duque</sys_created_by><sys_created_on>2024-04-17 18:17:33</sys_created_on><sys_id>e1e9123693a54610b653ffbd1dba10b2</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Test Scrip 0 1713377854258</sys_name><sys_package display_value="Test Script Generator" source="x_snc_test_scrip_0">f1f812f293a54610b653ffbd1dba10cb</sys_package><sys_policy/><sys_scope display_value="Test Script Generator">f1f812f293a54610b653ffbd1dba10cb</sys_scope><sys_update_name>sys_db_object_e1e9123693a54610b653ffbd1dba10b2</sys_update_name><sys_updated_by>earl.duque</sys_updated_by><sys_updated_on>2024-04-17 18:17:33</sys_updated_on><update_access>false</update_access><user_role/><ws_access>true</ws_access></sys_db_object></record_update>]]></payload>
+        <payload_hash>566627356</payload_hash>
+        <record_name>Test Scrip 0 1713377854258</record_name>
+        <reverted_from/>
+        <source>79f812f293a54610b653ffbd1dba10db</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>earl.duque</sys_created_by>
+        <sys_created_on>2024-04-17 18:17:34</sys_created_on>
+        <sys_id>31e9123693a54610b653ffbd1dba10ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18eed4743c00000001</sys_recorded_at>
+        <sys_updated_by>earl.duque</sys_updated_by>
+        <sys_updated_on>2024-04-17 18:17:34</sys_updated_on>
+        <type>Table</type>
+        <update_guid>75e9123661a54610ec453a33b6c036eb</update_guid>
+        <update_guid_history>75e9123661a54610ec453a33b6c036eb:566627356</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>earl.duque</sys_created_by>
+        <sys_created_on>2024-04-17 18:20:27</sys_created_on>
+        <sys_db_object display_value="" name="sys_db_object">sys_db_object</sys_db_object>
+        <sys_id>361fb9d7cac54feca4a2221f728bd3d1</sys_id>
+        <sys_metadata>e1e9123693a54610b653ffbd1dba10b2</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Test Scrip 0 1713377854258</sys_name>
+        <sys_package display_value="Test Script Generator" source="x_snc_test_scrip_0">f1f812f293a54610b653ffbd1dba10cb</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Test Script Generator">f1f812f293a54610b653ffbd1dba10cb</sys_scope>
+        <sys_scope_delete display_value="">3e5078b03b0c48989edc2d96b5d02c40</sys_scope_delete>
+        <sys_update_name>sys_db_object_e1e9123693a54610b653ffbd1dba10b2</sys_update_name>
+        <sys_update_version display_value="sys_db_object_e1e9123693a54610b653ffbd1dba10b2">31e9123693a54610b653ffbd1dba10ec</sys_update_version>
+        <sys_updated_by>earl.duque</sys_updated_by>
+        <sys_updated_on>2024-04-17 18:20:27</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
