@@ -34,19 +34,34 @@
         <sys_created_by>earl.duque</sys_created_by>
         <sys_created_on>2024-04-17 18:42:37</sys_created_on>
         <sys_id>e0af1eba93a54610b653ffbd1dba1076</sys_id>
-        <sys_mod_count>9</sys_mod_count>
+        <sys_mod_count>14</sys_mod_count>
         <sys_name>Test Generator</sys_name>
         <sys_package display_value="Test Script Generator" source="x_snc_test_scrip_0">f1f812f293a54610b653ffbd1dba10cb</sys_package>
         <sys_policy/>
         <sys_scope display_value="Test Script Generator">f1f812f293a54610b653ffbd1dba10cb</sys_scope>
         <sys_update_name>sp_widget_e0af1eba93a54610b653ffbd1dba1076</sys_update_name>
         <sys_updated_by>earl.duque</sys_updated_by>
-        <sys_updated_on>2024-04-17 18:52:27</sys_updated_on>
+        <sys_updated_on>2024-04-18 07:02:56</sys_updated_on>
         <template><![CDATA[<div>
+  <h2>
+    Test Script Generator
+  </h2>
+  <p>
+    What is this? A Test Script generator that generates a random, painful, and/or silly testing script for software development stories.
+  </p>
+  <p>
+    Basically, a joke version of <a href="https://earlduque.com/2020/12/15/testing-tasks-and-testing-scripts.html" target="_blank">an actual, good process</a>
+  </p>
+</div>
+<div>
   <span ng-bind-html="data.testScript"></span>
 </div>
 <div>
   <input type="button" value="Refresh" ng-click="c.refresh()">
+</div>
+<br>
+<div>
+  Made by Earl Duque. <a href="https://github.com/earlduque/Test-Script-Generator" target="_blank">Link to source code</a>
 </div>]]></template>
     </sp_widget>
 </record_update>
